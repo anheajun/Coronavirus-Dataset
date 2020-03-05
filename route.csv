@@ -44,7 +44,7 @@ id,date,province,city,visit,latitude,longitude
 12,2020-01-19,Gyeonggi-do,Gimpo-si,airport,37.563581,126.802056
 12,2020-01-20,Gyeonggi-do,Bucheon-si,movie_theater,37.486112,126.781023
 12,2020-01-21,Incheon,Jung-gu,office,37.4631,126.631371
-12,2020-01-22,Seoul,Jung-gu,train_station,37.555062,126.970618
+12,2020-01-22,Seoul,Yongsan-gu,train_station,37.5523812,126.971042
 12,2020-01-22,Gangwon-do,Gangneung-si,train_station,37.764239,128.899265
 12,2020-01-22,Gangwon-do,Gangneung-si,restaurant,37.755252,128.899762
 12,2020-01-22,Gangwon-do,Gangneung-si,hotel,37.68365,129.043829
